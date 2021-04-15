@@ -1,0 +1,9 @@
+how to run the Snake game:
+in this folder open and run Game.java in any code editor/IDE or similar application of choice (ex:jgrasp).
+When the game is opened you will gain control of a snake which can be controlled with the arrow keys.
+It is your objective to 'eat' the most fruit possible without colliding the head of your snake to any parts of its body.
+After the game is over, you will presented with a game over screen where you can see your statistics of gameplay over
+time and also press enter if you would like to play again. 
+
+If you encounter any errors with recieving statistics it may help to put the absolute path for the moves.txt and score.txt
+files in the Statistics.java file lines 11 and 12.
